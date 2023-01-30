@@ -48,6 +48,8 @@ For contributing to this project and repository, please see [collaboration.md](c
 2. [A Gaia DR2 view of the open cluster population in the Milky Way](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..93C/abstract) by Cantat-Gaudin, T. et al 2018
 3. [The GAIA Mission](https://ui.adsabs.harvard.edu/#abs/2016A%26A...595A...1G) by Gaia Collaboration et. al. 2016
 
+Here is the complete literature map: https://app.litmaps.com/seed/103842961
+
 ### Packages
 
 1. NumPy, AstroPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
