@@ -11,7 +11,7 @@ There are several pathways by which one can proceed with this repository.
 
 1. Complete Novice to Open Clusters and Machine Learning:
    - Begin by checking the presentation, [MVSem_Bhavesh_Rajpoot.pdf](MVSem_Bhavesh_Rajpoot.pdf), on the paper.
-  
+   - More details are given in the report, [Rajpoot_MVSem_Report.pdf](Rajpoot_MVSem_Report.pdf).
    - Proceeding with [rf_in_action.ipynb](rf_in_action.ipynb)
   
 2. Know Machine Learning but not Open Cluster or vice-versa:
